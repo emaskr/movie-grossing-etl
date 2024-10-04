@@ -1,0 +1,10 @@
+{
+    "api_key": "your_tmdb_api_key",
+    "db": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "yourusername",
+        "password": "yourpassword",
+        "dbname": "yourdbname"
+    }
+}
